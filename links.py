@@ -1,5 +1,5 @@
 '''
-Python script to scrap links from times of india archives.
+Python script to scrape links from times of india archives.
 Stores the links in a text file 
 '''
 
